@@ -7,6 +7,8 @@ that creates recipes mixing random ingredients.
 Lumache has its documentation hosted on Read the Docs.
 Hello, world!!!
 Hello, world!!!
+Hello, world!!!
+
 
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
@@ -17,8 +19,12 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   
+   Hello, world!!!
+
 
 Contents
+
 --------
 
 .. toctree::
