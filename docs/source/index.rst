@@ -5,9 +5,12 @@ Welcome to Lumache's documentation!
 that creates recipes mixing random ingredients.
 
 Lumache has its documentation hosted on Read the Docs.
-Hello, world!!!
-Hello, world!!!
-Hello, world!!!
+
+**Hello, world!!!**
+
+**Hello, world!!!**
+
+**Hello, world!!!**
 
 
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
